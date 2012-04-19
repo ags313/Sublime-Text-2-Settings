@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1333754110,
+	"auto_upgrade_last_run": 1334831058,
 	"installed_packages":
 	[
 		"Alignment",
+		"Backbone.js",
 		"BracketHighlighter",
 		"CoffeeScript",
 		"CTags",
@@ -12,6 +13,7 @@
 		"jQuery",
 		"Package Control",
 		"Rails Related Files",
+		"SCSS",
 		"Sublime File Navigator",
 		"Sublime-HTMLPrettify",
 		"SublimeCodeIntel",
